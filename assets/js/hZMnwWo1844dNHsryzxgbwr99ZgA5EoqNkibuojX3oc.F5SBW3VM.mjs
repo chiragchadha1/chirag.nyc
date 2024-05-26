@@ -908,7 +908,7 @@ var Ir = {
                                                 ],
                                             }),
                                             r(c, {
-                                                href: 'assets/pdf/Chirag Chadha Resume.pdf',
+                                                href: 'https://chirag.nyc/assets/pdf/Chirag Chadha Resume.pdf',
                                                 openInNewTab: !0,
                                                 children: r('a', {
                                                     className: 'framer-n7aig4 framer-1s3gldu',
