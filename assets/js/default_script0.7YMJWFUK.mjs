@@ -784,39 +784,4 @@ function O() {
         e)
     );
 });
-(async () => {
-    let { default: e } = await import('./__framer-badge.XMBBPSTE.mjs'),
-        s = v(F);
-    y(() => {
-        x(document.getElementById('__framer-badge-container')).render(
-            o(
-                s,
-                {
-                    className: '__framer-badge',
-                    __framer__threshold: 0.5,
-                    __framer__animateOnce: !0,
-                    __framer__opacity: 0,
-                    __framer__targetOpacity: 1,
-                    __framer__rotate: 0,
-                    __framer__x: 0,
-                    __framer__y: 10,
-                    __framer__scale: 1,
-                    __framer__transition: {
-                        type: 'spring',
-                        ease: [0.44, 0, 0.56, 1],
-                        duration: 0.3,
-                        delay: 1,
-                        stiffness: 350,
-                        damping: 40,
-                        mass: 1.5,
-                    },
-                    __framer__rotateX: 0,
-                    __framer__rotateY: 0,
-                    __framer__perspective: 1200,
-                },
-                o(e)
-            )
-        );
-    });
-})();
 //# sourceMappingURL=default_script0.7YMJWFUK.mjs.map
