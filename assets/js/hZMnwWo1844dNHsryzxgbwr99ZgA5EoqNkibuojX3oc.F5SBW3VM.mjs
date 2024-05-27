@@ -4597,8 +4597,8 @@ var Ir = {
                                                                     pixelHeight: 2304,
                                                                     pixelWidth: 1536,
                                                                     sizes: 'calc(100vw - 40px)',
-                                                                    src: 'https://chirag.nyc/assets/img/chirag-chadha-walking-in-mastika-fields.jpg',
-                                                                    srcSet: 'https://chirag.nyc/assets/img/chirag-chadha-walking-in-mastika-fields.jpg?scale-down-to=1024 682w,https://chirag.nyc/assets/img/chirag-chadha-walking-in-mastika-fields.jpg?scale-down-to=2048 1365w,https://chirag.nyc/assets/img/chirag-chadha-walking-in-mastika-fields.jpg 1536w',
+                                                                    src: 'https://chirag.nyc/assets/img/chirag-chadha-in-greece.jpg',
+                                                                    srcSet: 'https://chirag.nyc/assets/img/chirag-chadha-in-greece.jpg?scale-down-to=1024 682w,https://chirag.nyc/assets/img/chirag-chadha-in-greece.jpg?scale-down-to=2048 1365w,https://chirag.nyc/assets/img/chirag-chadha-in-greece.jpg 1536w',
                                                                 },
                                                             },
                                                             Ssw7mXvCQ: {
