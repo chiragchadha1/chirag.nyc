@@ -804,7 +804,7 @@ var Ir = {
                                                                             '--framer-text-color': 'rgb(29, 29, 31)',
                                                                         },
                                                                         children:
-                                                                            "I'M A VERSATILE SOFTWARE ENGINEER AND VISIONARY IN NEW YORK CITY. MY ENTHUSIASM FOR USER-CENTRIC DESIGN, SLEEK INTERFACES, AND INNOVATIVE SOLUTIONS DRIVES MY WORK.",
+                                                                            "I'M A VERSATILE SOFTWARE ENGINEER AND VISIONARY IN NEW YORK CITY. \n\n MY ENTHUSIASM FOR USER-CENTRIC DESIGN, SLEEK INTERFACES, AND INNOVATIVE SOLUTIONS DRIVES MY WORK.",
                                                                     }),
                                                                 }),
                                                             },
@@ -823,7 +823,7 @@ var Ir = {
                                                                             '--framer-text-color': 'rgb(29, 29, 31)',
                                                                         },
                                                                         children:
-                                                                            "I'M A VERSATILE SOFTWARE ENGINEER AND VISIONARY IN NEW YORK CITY. MY ENTHUSIASM FOR USER-CENTRIC DESIGN, SLEEK INTERFACES, AND INNOVATIVE SOLUTIONS DRIVES MY WORK.",
+                                                                            "I'M A VERSATILE SOFTWARE ENGINEER AND VISIONARY IN NEW YORK CITY. \n\n MY ENTHUSIASM FOR USER-CENTRIC DESIGN, SLEEK INTERFACES, AND INNOVATIVE SOLUTIONS DRIVES MY WORK.",
                                                                     }),
                                                                 }),
                                                             },
@@ -844,7 +844,7 @@ var Ir = {
                                                                         '--framer-text-color': 'rgb(29, 29, 31)',
                                                                     },
                                                                     children:
-                                                                        "I'M A VERSATILE SOFTWARE ENGINEER AND VISIONARY IN NEW YORK CITY. MY ENTHUSIASM FOR USER-CENTRIC DESIGN, SLEEK INTERFACES, AND INNOVATIVE SOLUTIONS DRIVES MY WORK.",
+                                                                        "I'M A VERSATILE SOFTWARE ENGINEER AND VISIONARY IN NEW YORK CITY. \n\n MY ENTHUSIASM FOR USER-CENTRIC DESIGN, SLEEK INTERFACES, AND INNOVATIVE SOLUTIONS DRIVES MY WORK.",
                                                                 }),
                                                             }),
                                                             className: 'framer-9626xh',
@@ -1940,7 +1940,7 @@ var Ir = {
                                                                                                     'rgba(29, 29, 31, 0.7)',
                                                                                             },
                                                                                             children:
-                                                                                                'The process involves building virtual 3D models and materials, setting lighting, and then the images.',
+                                                                                                'Architect and implement AI-driven solutions to analyze and interpret vast datasets, empowering personalized insights and predictive modeling. From concept to deployment, leverage AI algorithms to drive innovation and efficiency.',
                                                                                         }),
                                                                                     }),
                                                                                 },
