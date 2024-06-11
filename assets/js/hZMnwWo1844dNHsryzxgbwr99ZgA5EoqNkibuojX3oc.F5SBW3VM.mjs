@@ -4649,64 +4649,6 @@ var Ir = {
                                             name: 'Text',
                                             children: [
                                                 r('div', {
-                                                    className: 'framer-2zyt3f',
-                                                    'data-framer-name': 'Social Links',
-                                                    name: 'Social Links',
-                                                    children: r(c, {
-                                                        href: 'https://instagram.com/chiragcchadha',
-                                                        openInNewTab: !0,
-                                                        children: a('a', {
-                                                            className: 'framer-q2dp0c framer-1s3gldu',
-                                                            'data-framer-name': 'Link 1',
-                                                            name: 'Link 1',
-                                                            children: [
-                                                                r(f, {
-                                                                    children: r(o, {
-                                                                        className: 'framer-q23phd-container',
-                                                                        children: r(u, {
-                                                                            EHwggOTIz: 'Instagram',
-                                                                            height: '100%',
-                                                                            HmWXS9X01: 18,
-                                                                            id: 'WtcrXBBlL',
-                                                                            layoutId: 'WtcrXBBlL',
-                                                                            nKqPNlRNt: 'rgb(29, 29, 31)',
-                                                                            style: { height: '100%' },
-                                                                            width: '100%',
-                                                                            Y1jKtkJjZ: 'rgb(29, 29, 31)',
-                                                                        }),
-                                                                    }),
-                                                                }),
-                                                                r('div', {
-                                                                    className: 'framer-1mx0hcf',
-                                                                    'data-framer-name': 'Icon',
-                                                                    name: 'Icon',
-                                                                    children: r(f, {
-                                                                        children: r(o, {
-                                                                            className: 'framer-g7xo6t-container',
-                                                                            style: { rotate: 45 },
-                                                                            children: r(y, {
-                                                                                color: 'rgb(29, 29, 31)',
-                                                                                height: '100%',
-                                                                                iconSearch: 'arrowoutward',
-                                                                                iconSelection: 'ArrowUpward',
-                                                                                iconStyle15: 'Filled',
-                                                                                iconStyle2: 'Filled',
-                                                                                iconStyle7: 'Filled',
-                                                                                id: 'AUrMmc49L',
-                                                                                layoutId: 'AUrMmc49L',
-                                                                                mirrored: !1,
-                                                                                selectByList: !0,
-                                                                                style: { height: '100%', width: '100%' },
-                                                                                width: '100%',
-                                                                            }),
-                                                                        }),
-                                                                    }),
-                                                                }),
-                                                            ],
-                                                        }),
-                                                    }),
-                                                }),
-                                                r('div', {
                                                     className: 'framer-45vfuf',
                                                     'data-framer-name': 'Social Links',
                                                     name: 'Social Links',
